@@ -1,2 +1,1 @@
-==== Server.md
-This file contains all information about the Server
+# Documentation for the server 
