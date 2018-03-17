@@ -9,11 +9,14 @@
 - Nachdem sie vom Hand geändert wird, wird sie mittels sudo sfdisk  blog_server.raw < bkup.txt in die Image nochmal kopiert.
 - sudo parted blog_server.raw unit s print zeigt jetzt keine Fehlermeldungen
 ## Flatpress
+### Anmeldedaten
 /img_blog_server.raw/vol_vol2/var/www/1/fp-content/users/admin.php   
 - 'userid' => 'admin',  
 - 'password' => '6a0a3033f490014f6b61c2c476f63637',  
 - 'www' => 'http://localhost.net/',  
 - 'email' => 'myflatpress@localhost.net',
+### Erster Kommentar
+/img_blog_server.raw/vol_vol2/var/www/1/fp-content/content/15/08/entry150828-140229.txtVERSION|fp-1.0.3|SUBJECT|Mein erster Blog|CONTENT|Jetzt habe ich endlich auch einen Blog :). |AUTHOR|admin|DATE|1440770549|
 
 ## Supermario.exe
 - Supermario.exe wurde von folgenden IP Adressen heruntergeladen (Auszug von vhost1.myflatpressserver.de_access.log) :
