@@ -49,5 +49,9 @@ Die folgenden Softwarepackete wurden installiert: Oracle VM virtual guest Additi
 Ein USB Geräte VID_80EE&PID_0021 wurde angeschlossen. Hier bin ich noch nicht sicher was dieses war.
 Es gibt im Internet zwei Hinweise: USB_Tablet und USB device treiber von virtual box
 
+## Programm Kompatibilitäts Cache
+Der Kompatibilitäts Cache enthält keine Einträge.
+Normal bekommt jedes gestartete Programm einen Eintrag!
+
 
 
