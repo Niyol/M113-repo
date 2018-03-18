@@ -34,7 +34,6 @@ Im Prefetch wurde ein Eintrag der supermario.exe gefunden. Dies belegt, dass die
 
 ## Trojaner-Datei itiscea.exe
 Im Autostart des User vagrant wurden der Eintrag der itiscea.exe gefunden.
-
 Die Datei itiscea.exe wurde auf virustotal.com als Trojaner eingestuft.
 
 ## Dateien mit ADS
@@ -42,6 +41,13 @@ Die folgenden 4 Dateien wurden mit einem ADS gefunden.
 
 ## Internet Explorer TypedURLs
 Der Server „myflatpressserver.com wurde im Internetexplorer vom Benutzer vagrant eingegeben.
+
+## Installierte Software
+Die folgenden Softwarepackete wurden installiert: Oracle VM virtual guest Additions.
+
+## USB angeschlossene Geräte
+Ein USB Geräte VID_80EE&PID_0021 wurde angeschlossen. Hier bin ich noch nicht sicher was dieses war.
+Es gibt im Internet zwei Hinweise: USB_Tablet und USB device treiber von virtual box
 
 
 
