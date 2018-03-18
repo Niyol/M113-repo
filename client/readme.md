@@ -34,8 +34,9 @@ Jetzt habe ich endlich auch einen Blog :).
 - Im Prefetch wurde auch ein Eintrag der Itiscea.exe gefunden "Windows/Prefetch/ITISCEA.EXE-A4C9C162.pf"
 
 ## Trojaner-Datei itiscea.exe
-Im Autostart des User vagrant wurden der Eintrag der itiscea.exe gefunden.
-Die Datei itiscea.exe wurde auf virustotal.com als Trojaner eingestuft.
+- Im Autostart des User vagrant wurden der Eintrag der itiscea.exe gefunden.
+- Die Datei itiscea.exe wurde auf virustotal.com als Trojaner eingestuft.
+- Ergebnisse einer online Sandbox > https://www.hybrid-analysis.com/sample/ffb383e04736b61490bfb6a290a008f9cab456260aab1d3fb9f9c22de8d85a8d?environmentId=100
 
 ## Dateien mit ADS
 Die folgenden 4 Dateien wurden mit einem ADS gefunden.
