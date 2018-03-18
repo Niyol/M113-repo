@@ -29,18 +29,18 @@ http://vhost1.myflatpressserver.de/admin.php?p=maind91cdfe8e8/admin.php?p=entry&
 Mein erster Blog
 Jetzt habe ich endlich auch einen Blog :). 
 
-Prefetch
+## Prefetch
 Im Prefetch wurde ein Eintrag der supermario.exe gefunden. Dies belegt, dass die Datei ausgeführt wurde.
 
-Trojaner-Datei itiscea.exe
+## Trojaner-Datei itiscea.exe
 Im Autostart des User vagrant wurden der Eintrag der itiscea.exe gefunden.
 
 Die Datei itiscea.exe wurde auf virustotal.com als Trojaner eingestuft.
 
-Dateien mit ADS
+## Dateien mit ADS
 Die folgenden 4 Dateien wurden mit einem ADS gefunden.
 
-Internet Explorer TypedURLs
+## Internet Explorer TypedURLs
 Der Server „myflatpressserver.com wurde im Internetexplorer vom Benutzer vagrant eingegeben.
 
 
