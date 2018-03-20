@@ -13,8 +13,8 @@
 -Client hat die IP Adresse 192.168.178.101, von dieser wurde auch die supermario.exe heruntergeladen.
 -Im Windows profech ist der Eintrag für die supermario.exe, somit istr belegt dass die Datei gestaret worden ist.
 
-Nächste Schtitte
-... weitere Client untersucungen und protokollieren
+## OS Version
+Windows 7 Professional SP1
 
 ## Benutzeraccounts
 Zu den Standardaccounts Administrator und Gast gibt es nur einen zusätzlichen Account mit dem Namen vagrant.
@@ -40,6 +40,7 @@ Jetzt habe ich endlich auch einen Blog :).
 
 ## Dateien mit ADS
 Die folgenden 4 Dateien wurden mit einem ADS gefunden.
+Die jeweiligen ADS Ströme sind aber keine Malware.
 
 ### Internet Explorer TypedURLs
 Der Server „myflatpressserver.com wurde im Internetexplorer vom Benutzer vagrant eingegeben.
