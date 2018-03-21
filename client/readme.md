@@ -42,17 +42,17 @@ Jetzt habe ich endlich auch einen Blog :).
 Die folgenden 4 Dateien wurden mit einem ADS gefunden.
 Die jeweiligen ADS Ströme sind aber keine Malware.
 
-### Internet Explorer TypedURLs
+## Internet Explorer TypedURLs
 Der Server „myflatpressserver.com wurde im Internetexplorer vom Benutzer vagrant eingegeben.
 
 ### Installierte Software
 Die folgenden Softwarepackete wurden installiert: Oracle VM virtual guest Additions.
 
-### USB angeschlossene Geräte
+## USB angeschlossene Geräte
 Ein USB Geräte VID_80EE&PID_0021 wurde angeschlossen. Hier bin ich noch nicht sicher was dieses war.
 Es gibt im Internet zwei Hinweise: USB_Tablet und USB device treiber von virtual box
 
-### Programm Kompatibilitäts Cache
+## Programm Kompatibilitäts Cache
 Der Kompatibilitäts Cache enthält keine Einträge.
 Normal bekommt jedes gestartete Programm einen Eintrag!
 
