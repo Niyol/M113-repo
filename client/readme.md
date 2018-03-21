@@ -9,9 +9,6 @@
 -Prüfsumme erstellt
 
 ## Client Untersuchungen
--Logeinträage die belegen dass auf den Server und supermario.exe zugegriffen wurde 
--Client hat die IP Adresse 192.168.178.101, von dieser wurde auch die supermario.exe heruntergeladen.
--Im Windows profech ist der Eintrag für die supermario.exe, somit istr belegt dass die Datei gestaret worden ist.
 
 ## OS Version
 Windows 7 Professional SP1
@@ -25,7 +22,7 @@ Letzter Login: 28/Aug/2015: 12:23:54
 IP Adresse 192.168.178.101
 
 ## Webhistory
-- Zugriff auf die Datei supermario.exe auf dem Server.
+-Logeinträage die belegen dass auf den Server und supermario.exe zugegriffen wurde - Client hat die IP Adresse 192.168.178.101, von dieser wurde auch die supermario.exe heruntergeladen. Zugriff auf die Datei supermario.exe auf dem Server.
 - Erstellung eines Blogs:
 {C94DCCEF-4D7E-11E5-BD61-08002739CAE2}.dat:
 http://vhost1.myflatpressserver.de/admin.php?p=maind91cdfe8e8/admin.php?p=entry&action=write
