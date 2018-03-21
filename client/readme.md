@@ -30,8 +30,8 @@ Mein erster Blog
 Jetzt habe ich endlich auch einen Blog :). 
 
 ## Prefetch
-- Im Prefetch wurde ein Eintrag der supermario.exe gefunden. Dies belegt, dass die Datei ausgeführt wurde.
-- Im Prefetch wurde auch ein Eintrag der Itiscea.exe gefunden "Windows/Prefetch/ITISCEA.EXE-A4C9C162.pf"
+Im Prefetch wurde ein Eintrag der supermario.exe gefunden. Dies belegt, dass die Datei ausgeführt wurde.
+Im Prefetch wurde auch ein Eintrag der Itiscea.exe gefunden "Windows/Prefetch/ITISCEA.EXE-A4C9C162.pf"
 
 ## Trojaner-Datei itiscea.exe
 - Im Autostart des User vagrant wurden der Eintrag der itiscea.exe gefunden.
