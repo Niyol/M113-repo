@@ -16,6 +16,9 @@
 ## OS Version
 Windows 7 Professional SP1
 
+## IP Adresse
+Adresse 192.168.178.101
+
 ## Benutzeraccounts
 Zu den Standardaccounts Administrator und Gast gibt es nur einen zusätzlichen Account mit dem Namen vagrant.
 Letzter Login: 28/Aug/2015: 12:23:54
