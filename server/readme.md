@@ -52,12 +52,8 @@ Elapsed time 0h02m11sPass 1 +39876 filestxt: 24340/24340 recovered
 - iso: 0/1 recovered
 - Total: 39876 files found
 
-
-
-
-
-
-
-
-
-
+## (Mögliche) Urheberrechtsverletzung
+Die angebotene "supermario.exe" Datei enthält einen Trojaner. Vtl. wird das Computerspiel referenziert, um den Besucher dieses Blogs zu überzeugen, die .exe Datei herunterzulande und abzuspielen. 
+/var/www/1/index.php
+- Download new Super Mario Emulator
+- Der Link zeigt eine Abbildung des bekannten Computerspiels : http://media2.giga.de/2010/12/New_Super_Mario_Bros.jpg
