@@ -10,7 +10,7 @@
 
 ## Client Untersuchungen
 
-## OS Version
+### OS Version
 Windows 7 Professional SP1
 
 ## IP Adresse
