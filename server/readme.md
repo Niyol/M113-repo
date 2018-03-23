@@ -8,6 +8,13 @@
 - Mittels sudo sfdisk -d blog_server.raw > bkup.txt wird die Partitiontabelle aus der Image extrahiert.
 - Nachdem sie vom Hand geändert wird, wird sie mittels sudo sfdisk  blog_server.raw < bkup.txt in die Image nochmal kopiert.
 - sudo parted blog_server.raw unit s print zeigt jetzt keine Fehlermeldungen
+zum mounten:
+
+- sudo losetup --offset 1048576 /dev/loop0 blog_server.raw
+- sudo e2fsck -f /dev/loop0
+- sudo resize2fs /dev/loop0
+- sudo mount /dev/loop0 /mnt/test/ oder wo es sonst hin soll.
+
 ## Flatpress
 ### Anmeldedaten
 /img_blog_server.raw/vol_vol2/var/www/1/fp-content/users/admin.php   
