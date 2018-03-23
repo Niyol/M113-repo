@@ -60,5 +60,6 @@ Es gibt im Internet zwei Hinweise: USB_Tablet und USB device treiber von virtual
 Der Kompatibilitäts Cache enthält keine Einträge.
 Normal bekommt jedes gestartete Programm einen Eintrag!
 
-
+## Firewall Einträge - z.B. füt FileSharing Programme
+Keine Anwendungen mit erlaubtem Zugriff auf außenstehende Verbindungen durch die Firewall.
 
