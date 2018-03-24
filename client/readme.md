@@ -16,6 +16,9 @@ Windows 7 Professional SP1
 ## IP Adresse
 Adresse 192.168.178.101
 
+## System time info
+UTC+2
+
 ## Mounted Devices
 C: Harddisk
 D: IDE CD ROM
